@@ -1,8 +1,7 @@
-# ai-gurukul-learn-earn
+# ai-gurukul-learn & earn
 Sab padhe sablog aage badhe.
-# AI Gurukul Learn & Earn 🤖
 
-## Sab padhe, sablog aage badhe
+
 
 AI Gurukul Learn & Earn Bharat ka pehla 100% Free AI Education + Skill + Job Platform hai.
 
